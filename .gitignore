@@ -1,7 +1,8 @@
 *.bak
 *.log
-Project/.vs
+**/.vs
 Project/bin
+Project/packages
 Project/Setup/Debug
 Project/Setup/Release
 Project/SfHelper/x64
